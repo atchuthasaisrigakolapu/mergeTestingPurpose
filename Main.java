@@ -1,6 +1,6 @@
 public class Main {
 public static void main(String z[]){
-  List<String> al = new ArrayList<>();
+  Map<String,String> mapObj = new HashMap<>();
 System.out.println("Test");
 }
 }
